@@ -13,7 +13,10 @@ Inside this repository, you'll discover annotated data and hyperlinks to the dat
 We look forward to your contributions and innovative ideas as we work towards a more efficient and citizen-centric government. Let's make a difference together!
 
 ### Team collaboration
-To contribute, create an account on GitHub ([Sign up here](https://github.com/)) and read this readme. Each team can fork this repository to work on their own design, making it an open process with open-source software. We encourage everyone to view and explore the projects within the repository after the hackathon has concluded.
+To contribute, create an account on GitHub ([Sign up here](https://github.com/)) and read this readme. Each team can fork this repository to work on their own design, making it an open source project. We encourage everyone to view and explore the projects within the repository after the hackathon has concluded.
+
+### Disclaimer
+The code within this repository primarily focuses on innovative solutions, design, and data science methods to improve government services and enhance citizen-government interaction. While extensive code review may not be the primary focus, the code serves as a foundation for the development of solutions and enhancements.
 
 ## Data annotation
 The available data for the Hackathon/designathon includes all visitor interactions with the Rijksoverheid.nl website and the customer contact center around the theme of 'Education'. This theme is made up of various sub topics, listed at https://www.rijksoverheid.nl/onderwerpen/themas/onderwijs. The csv-files contain two weeks of Piwik clickstream data, the customer contact counting logs and the Google organic search keywords for all sessions that touched one or more sub-pages for these topics.
