@@ -1,12 +1,12 @@
 # feedbackloop-overheid.nl
 
-Repository for Hackathon Feedbackloop Overheid.nl.
-Collaborating on a Smarter Citizen-Government Interaction
+Repository for Hackathon Feedbackloop Overheid.nl November 9 and 10, 2023.
+Collaborating on a Smarter Citizen-Government Interaction.
 
 (c) Staat Der Nederlanden 2023
 
 ## Introduction
-Welcome to the Hackathon and Designathon Feedback Loop Overheid! In this GitHub repository, you'll find all the resources you need to collaborate on innovative solutions. Thank you for helping us design the 'feedback mechanism' on overheid.nl.
+Welcome to the Hackathon and Designathon Feedback Loop Overheid! This GitHub repository has been set up for the event on November 9 and 10, 2023. In this repository, you'll find all the resources you need to collaborate on innovative solutions. Thank you for helping us design the 'feedback mechanism' on overheid.nl.
 
 Inside this repository, you'll discover annotated data and hyperlinks to the data that you can use to address the challenges presented during this event. Our goal is to make the government more responsive to citizen feedback and improve the user experience on government websites. Whether you're a software developer, data scientist, UI/UX designer, or service designer, this GitHub repository is your hub for the event.
 
