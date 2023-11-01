@@ -34,7 +34,7 @@ This dataset primarily centers on sessions, visitor characteristics, and engagem
 
 ![Piwik sessions](Images%20and%20files/Piwik%20sessions%20-%20Hackathon%20and%20Designathon%20Feedback%20Loop%20Overheid.png)
 
-Link to the data: https://feedbackloopoverheidnl.blob.core.windows.net/feedbackloopoverheidnl/piwik_sessions.csv
+[Link to the Piwik sessions data](https://feedbackloopoverheidnl.blob.core.windows.net/feedbackloopoverheidnl/piwik_sessions.csv)
 
 #### Piwik events
 This dataset provides information on website visitor interactions and event tracking, capturing various aspects of user behaviour and session details. It includes data points like session and event indices, visitor identifiers, timestamps, event types (including custom events, downloads, outlinks, page views, and searches), associated URLs and titles, previous and next event details, and page view metrics. Additionally, it encompasses contextual information such as website codes, date details, page types, ministerial departments, and subjects. This dataset can be linked to the “Piwik session” dataset by the variables "pw_session_id" and “pw_visitor_id”.
@@ -42,14 +42,14 @@ This dataset is centred on tracking visitor interactions and events on the websi
 
 ![Piwik events](Images%20and%20files/Piwik%20events%20-%20Hackathon%20and%20Designathon%20Feedback%20Loop%20Overheid.png)
 
-Link to the data: https://feedbackloopoverheidnl.blob.core.windows.net/feedbackloopoverheidnl/piwik_events.csv
+[Link to the Piwik events data](https://feedbackloopoverheidnl.blob.core.windows.net/feedbackloopoverheidnl/piwik_events.csv)
 
 #### Piwik search queries
 This dataset consists of all search queries that visitors typed in the internal search in the website (e.g. https://www.rijksoverheid.nl/zoeken). Records are linked to the Piwik events table through the variable pw_event_id.
 
 ![Piwik search queries](Images%20and%20files/Piwik%20search%20queries%20-%20Hackathon%20and%20Designathon%20Feedback%20Loop%20Overheid.png)
 
-Link to the data: https://feedbackloopoverheidnl.blob.core.windows.net/feedbackloopoverheidnl/piwik_search_queries.csv
+[Link to the Piwik search queries data](https://feedbackloopoverheidnl.blob.core.windows.net/feedbackloopoverheidnl/piwik_search_queries.csv)
 
 #### Google organic
 This dataset originates from Google Service Control and provides insights into Google web search activities, including user behaviour and website performance. It encompasses key data points such as search queries, associated page URLs, visitor countries, device types, registered clicks, impressions, and the click-through rate (CTR). Additionally, it includes position data indicating the page's ranking, search type (web or image), website codes, and timestamps (year, month, and day). 
@@ -57,12 +57,12 @@ This dataset aids in understanding how users interact with search results, optim
 
 ![Google organic](Images%20and%20files/Google%20Organic%20-%20Hackathon%20and%20Designathon%20Feedback%20Loop%20Overheid.png)
 
-Link to the data: https://feedbackloopoverheidnl.blob.core.windows.net/feedbackloopoverheidnl/piwik_search_organic.csv
+[Link to the Google organic data](https://feedbackloopoverheidnl.blob.core.windows.net/feedbackloopoverheidnl/google_search_organic.csv)
 
 #### Customer contact centre Rijksoverheid (phone number 1400)
 This dataset records customer interactions with the 1400 customer contact centre of the Rijksoverheid, providing insights into various contact-related details. It includes information such as the date and time of the contact, the channel used for contact, the title of the last page on rijksoverheid.nl accessed by the agent to address the query, the associated ministry, and the subject. Additionally, the dataset covers details about the reason for contact as registered by the agent, the outcome of the contact, whether it was forwarded to the ministry's back office, and any associated forward code. 
 This data can be used for monitoring and improving customer service interactions and outcomes within the government.
 ![Customer contact centre Rijksoverheid](Images%20and%20files/Contact%20centre%20Rijksoverheid%20(phone%20number%201400)%20-%20Hackathon%20and%20Designathon%20Feedback%20Loop%20Overheid.png)
 
-Link to the data: https://feedbackloopoverheidnl.blob.core.windows.net/feedbackloopoverheidnl/contacts_1400.csv
+[Link to the Customer contact centre Rijksoverheid data](https://feedbackloopoverheidnl.blob.core.windows.net/feedbackloopoverheidnl/contacts_1400.csv)
 
