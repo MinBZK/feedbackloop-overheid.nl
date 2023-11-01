@@ -34,7 +34,9 @@ This dataset primarily centers on sessions, visitor characteristics, and engagem
 
 ![Piwik sessions](Images%20and%20files/Piwik%20sessions%20-%20Hackathon%20and%20Designathon%20Feedback%20Loop%20Overheid.png)
 
+
 [Link to the Piwik sessions data](https://feedbackloopoverheidnl.blob.core.windows.net/feedbackloopoverheidnl/piwik_sessions.csv)
+
 
 #### Piwik events
 This dataset provides information on website visitor interactions and event tracking, capturing various aspects of user behaviour and session details. It includes data points like session and event indices, visitor identifiers, timestamps, event types (including custom events, downloads, outlinks, page views, and searches), associated URLs and titles, previous and next event details, and page view metrics. Additionally, it encompasses contextual information such as website codes, date details, page types, ministerial departments, and subjects. This dataset can be linked to the “Piwik session” dataset by the variables "pw_session_id" and “pw_visitor_id”.
@@ -42,7 +44,9 @@ This dataset is centred on tracking visitor interactions and events on the websi
 
 ![Piwik events](Images%20and%20files/Piwik%20events%20-%20Hackathon%20and%20Designathon%20Feedback%20Loop%20Overheid.png)
 
+
 [Link to the Piwik events data](https://feedbackloopoverheidnl.blob.core.windows.net/feedbackloopoverheidnl/piwik_events.csv)
+
 
 #### Piwik search queries
 This dataset consists of all search queries that visitors typed in the internal search in the website (e.g. https://www.rijksoverheid.nl/zoeken). Records are linked to the Piwik events table through the variable pw_event_id.
