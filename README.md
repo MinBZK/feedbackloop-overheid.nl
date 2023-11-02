@@ -5,6 +5,8 @@ Collaborating on a Smarter Citizen-Government Interaction.
 
 (c) Staat Der Nederlanden 2023
 
+Sign up for the hackathon by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSchwQS6fSyvMs_MfJjDyNZJfoyyQZxScSUWLmoUtd2iFQFiXw/viewform?usp=sf_link)!
+
 ## Introduction
 Welcome to the Hackathon and Designathon Feedback Loop Overheid! This GitHub repository has been set up for the event on November 9 and 10, 2023. In this repository, you'll find all the resources you need to collaborate on innovative solutions. Thank you for helping us design the 'feedback mechanism' on overheid.nl.
 
